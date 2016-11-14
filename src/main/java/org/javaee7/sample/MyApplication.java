@@ -6,6 +6,5 @@ import javax.ws.rs.core.Application;
 @ApplicationPath("/resources")
 public class MyApplication extends Application {
 
-_ueziçyfdçioàreu_ztçàgy('_ueçguy_ir
 rnhsiueghi'oieà)
 }
